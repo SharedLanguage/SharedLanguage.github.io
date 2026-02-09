@@ -3,3 +3,23 @@ header img {
   max-width: 400px;
   height: auto;
 }
+
+header p {
+  text-align:center;
+}
+
+body {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.booking-button {
+  display: inline-block;
+  padding: 15px 30px;
+  background-color: #149954;
+  color: white;
+  text-decoration: none;
+  border-radius: 5px;
+  font-size: 18px;
+}
