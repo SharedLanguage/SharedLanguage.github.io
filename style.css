@@ -18,7 +18,8 @@ header p {
 }
 
 body {
-  max-width: 800px;
+  font-family: Verdana, Geneva, sans-serif;
+  max-width: 75ch;
   margin: 0 auto;
   padding: 20px;
 }
@@ -65,5 +66,5 @@ p {
   color: white;
   text-decoration: none;
   border-radius: 5px;
-  font-size: 18px;
+  font-size: 24px;
 }
