@@ -17,6 +17,12 @@ header p {
   text-align:center;
 }
 
+nav a {
+  display: block;
+  font-size: 20px;
+  margin-bottom: 0.3em;
+}
+
 body {
   font-family: Verdana, Geneva, sans-serif;
   max-width: 75ch;
