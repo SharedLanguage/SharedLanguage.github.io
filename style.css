@@ -74,3 +74,15 @@ p {
   border-radius: 5px;
   font-size: 24px;
 }
+
+blockquote {
+  font-size: 18px;
+  font-style: italic;
+}
+
+blockquote footer {
+  font-style: normal;
+  font-weight: bold;
+  margin-top 0.5 em;
+  text-align: right;
+}
